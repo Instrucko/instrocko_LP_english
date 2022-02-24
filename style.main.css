@@ -327,7 +327,7 @@ input.input-box {
     }
 .testimonials .merged-layer{width: 100%;z-index: 99}
 /* .testimonials .t-img{width: 100%;position: absolute;top: 0;left: 0} */
-.testimonials .icon-play{position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;display: block;z-index: 999;width: 98px;height: 98px;}
+.testimonials .icon-play{position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;display: block;z-index: 999;width: 60px;height: 60px;}
 .testimonials h2,
 .testimonials h2, .testimonials h3 {
     font-weight: 600;
@@ -801,8 +801,8 @@ button.owl-dot:focus{outline:none;}
     margin: auto;
     display: block;
     z-index: 999;
-    width: 98px;
-    height: 98px;
+    width: 60px;
+    height: 60px;
 }
 .heading-test.text-center h1.text-center {
     font-family: 'Poppins', sans-serif;
